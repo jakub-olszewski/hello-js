@@ -4,7 +4,7 @@
 
 ## Step 0: Init
 
-npm install
+`npm install`
 
 Generate documentation use esDocs
 
